@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#  AdminUserCheck_EA.sh
+#  AdminUserFix.sh
 #  
 #
 #  Created by Lee Stanford on 2/14/19.
